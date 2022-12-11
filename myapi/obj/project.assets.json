@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kash\\Desktop\\testAPI\\testAPI.csproj",
+      "projectUniqueName": "C:\\Users\\kash\\Desktop\\1\\testAPI\\myapi\\testAPI.csproj",
       "projectName": "testAPI",
-      "projectPath": "C:\\Users\\kash\\Desktop\\testAPI\\testAPI.csproj",
+      "projectPath": "C:\\Users\\kash\\Desktop\\1\\testAPI\\myapi\\testAPI.csproj",
       "packagesPath": "C:\\Users\\kash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kash\\Desktop\\testAPI\\obj\\",
+      "outputPath": "C:\\Users\\kash\\Desktop\\1\\testAPI\\myapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kash\\AppData\\Roaming\\NuGet\\NuGet.Config",
