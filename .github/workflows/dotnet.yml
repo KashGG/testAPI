@@ -22,7 +22,5 @@ jobs:
         dotnet-version: 7.0.100
     - name: Restore dependencies
       run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+    - name: Build app
+      run: dotnet build -c Release --no-restore
